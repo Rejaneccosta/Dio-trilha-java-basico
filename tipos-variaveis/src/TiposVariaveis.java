@@ -7,6 +7,9 @@ public static void main(String[] args) {
     numero = 10;
 
     System.out.print(numero);
+    final double VALOR_PI = 3.14;
+
+String meuNome = ("Rejane");
 
 }
 }
